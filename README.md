@@ -7,16 +7,15 @@ This project focuses on analyzing an online retail dataset to derive actionable 
 <img width="643" height="361" alt="Online Retail Analytics Dashboard (Tata)" src="https://github.com/user-attachments/assets/cf76f043-f002-431e-85dc-a887f661216a" />
 
 **The analysis is designed from two perspectives:**
-•	CEO (Operations & Growth)
 
+•	CEO (Operations & Growth)
 •	CMO (Marketing & Customer Insights)
 
 **Business Objective**
+
 •	Evaluate current business performance
 •	Identify major contributors to revenue
-
 •	Analyze customer and regional trends
-
 •	Provide data-driven recommendations for expansion strategy
 
 Key Business Questions
@@ -39,16 +38,20 @@ Before analysis, the dataset was cleaned using the following rules:
 •	Ensured data consistency for accurate insights
 
 Dashboard & Visualizations
-🔹 Q1: Monthly Revenue Trend (2011)
+
+Q1: Monthly Revenue Trend (2011)
 •	Visual: Line Chart
 •	Insight: Identifies seasonality and revenue fluctuations over time
-🔹 Q2: Top 10 Countries by Revenue (Excl. UK)
+
+Q2: Top 10 Countries by Revenue (Excl. UK)
 •	Visual: Bar Chart
 •	Insight: Compares revenue and quantity sold across key markets
-🔹 Q3: Top 10 Customers by Revenue
+
+Q3: Top 10 Customers by Revenue
 •	Visual: Sorted Bar Chart (Descending)
 •	Insight: Highlights high-value customers for targeted retention
-🔹 Q4: Global Demand Analysis (Excl. UK)
+
+Q4: Global Demand Analysis (Excl. UK)
 •	Visual: Filled Map / Heat Map
 •	Insight: Identifies high-demand regions for expansion
 
