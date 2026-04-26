@@ -1,18 +1,22 @@
 Tata Online Retail - Power BI Project – Business Scenario Analysis
 
 **Overview**
+
 This project focuses on analyzing an online retail dataset to derive actionable insights for senior leadership. The objective is to support strategic decision-making by identifying key revenue drivers, customer behavior patterns, and expansion opportunities.
 
 <img width="643" height="361" alt="Online Retail Analytics Dashboard (Tata)" src="https://github.com/user-attachments/assets/cf76f043-f002-431e-85dc-a887f661216a" />
 
 **The analysis is designed from two perspectives:**
 •	CEO (Operations & Growth)
+
 •	CMO (Marketing & Customer Insights)
 
-Business Objective
+**Business Objective**
 •	Evaluate current business performance
 •	Identify major contributors to revenue
+
 •	Analyze customer and regional trends
+
 •	Provide data-driven recommendations for expansion strategy
 
 Key Business Questions
